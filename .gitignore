@@ -8,8 +8,8 @@ __MACOSX/
 .DS_Store
 **/.DS_Store
 
-# 別プロジェクト
-booking-form/
+# booking-form内のgitバックアップ
+booking-form/.git_backup/
 
 # 参照画像（LP不使用）
 共感セクション修正*.png
