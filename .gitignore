@@ -1,0 +1,15 @@
+# 動画ファイル
+*.mp4
+*.mov
+*.avi
+
+# Macメタデータ
+__MACOSX/
+.DS_Store
+**/.DS_Store
+
+# 別プロジェクト
+booking-form/
+
+# 参照画像（LP不使用）
+共感セクション修正*.png
